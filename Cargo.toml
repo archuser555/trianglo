@@ -1,0 +1,10 @@
+[package]
+name = "trianglo"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Stupidly Fast And LightWeight Crate To Calculate Square Root & Logarithm"
+authors = ["Archuser555 <souscoin@protonmail.com>"]
+readme = "Readme.md"
+keywords = ["math", "geometry"]
+
